@@ -1,0 +1,19 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "Website design for Omnifood LLC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spraguejdev/omnifood.git"
+  },
+  "author": "John Sprague Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spraguejdev/omnifood/issues"
+  },
+  "homepage": "https://github.com/spraguejdev/omnifood#readme"
+}

@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+html {
+  background: #fff;
+  color: rgb(117, 113, 113);
+  font-family: "Lato", "Arial" sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+}
